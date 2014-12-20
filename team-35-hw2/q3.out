@@ -1,0 +1,227 @@
+speedup 10.00
+duration 100
+It's ready for barber.
+DEBUG: 0.000324 barber goes to sleep
+DEBUG: 0.641997 customer 1 enters shop
+DEBUG: 0.642053 barber wakes up
+DEBUG: 0.642066 customer 1 starts haircut
+DEBUG: 0.719678 customer 2 enters shop
+DEBUG: 0.791156 customer 0 enters shop
+DEBUG: 0.817849 customer 1 leaves shop
+DEBUG: 0.817881 customer 2 starts haircut
+DEBUG: 0.826797 customer 2 leaves shop
+DEBUG: 0.826831 customer 0 starts haircut
+DEBUG: 0.898096 customer 0 leaves shop
+DEBUG: 0.898115 barber goes to sleep
+DEBUG: 1.004343 customer 1 enters shop
+DEBUG: 1.004369 barber wakes up
+DEBUG: 1.004380 customer 1 starts haircut
+DEBUG: 1.009626 customer 5 enters shop
+DEBUG: 1.037848 customer 1 leaves shop
+DEBUG: 1.037876 customer 5 starts haircut
+DEBUG: 1.204109 customer 5 leaves shop
+DEBUG: 1.204136 barber goes to sleep
+DEBUG: 1.393316 customer 2 enters shop
+DEBUG: 1.393344 barber wakes up
+DEBUG: 1.393355 customer 2 starts haircut
+DEBUG: 1.409569 customer 2 leaves shop
+DEBUG: 1.409593 barber goes to sleep
+DEBUG: 1.734334 customer 9 enters shop
+DEBUG: 1.734379 barber wakes up
+DEBUG: 1.734389 customer 9 starts haircut
+DEBUG: 1.744789 customer 9 leaves shop
+DEBUG: 1.744817 barber goes to sleep
+DEBUG: 2.041898 customer 2 enters shop
+DEBUG: 2.041924 barber wakes up
+DEBUG: 2.041934 customer 2 starts haircut
+DEBUG: 2.068370 customer 2 leaves shop
+DEBUG: 2.068397 barber goes to sleep
+DEBUG: 2.383489 customer 3 enters shop
+DEBUG: 2.383535 barber wakes up
+DEBUG: 2.383544 customer 3 starts haircut
+DEBUG: 2.394792 customer 4 enters shop
+DEBUG: 2.398281 customer 3 leaves shop
+DEBUG: 2.398328 customer 4 starts haircut
+DEBUG: 2.407865 customer 9 enters shop
+DEBUG: 2.415339 customer 5 enters shop
+DEBUG: 2.707363 customer 4 leaves shop
+DEBUG: 2.707449 customer 9 starts haircut
+DEBUG: 2.709631 customer 9 leaves shop
+DEBUG: 2.709667 customer 5 starts haircut
+DEBUG: 2.723428 customer 5 leaves shop
+DEBUG: 2.723456 barber goes to sleep
+DEBUG: 2.912662 customer 4 enters shop
+DEBUG: 2.912689 barber wakes up
+DEBUG: 2.912700 customer 4 starts haircut
+DEBUG: 2.959776 customer 3 enters shop
+DEBUG: 2.967481 customer 5 enters shop
+DEBUG: 3.180638 customer 8 enters shop
+DEBUG: 3.188307 customer 4 leaves shop
+DEBUG: 3.188339 customer 3 starts haircut
+DEBUG: 3.659102 customer 3 leaves shop
+DEBUG: 3.659137 customer 5 starts haircut
+DEBUG: 3.707107 customer 5 leaves shop
+DEBUG: 3.707136 customer 8 starts haircut
+DEBUG: 3.737978 customer 2 enters shop
+DEBUG: 3.742649 customer 8 leaves shop
+DEBUG: 3.742707 customer 2 starts haircut
+DEBUG: 3.799939 customer 2 leaves shop
+DEBUG: 3.799966 barber goes to sleep
+DEBUG: 3.879403 customer 0 enters shop
+DEBUG: 3.879429 barber wakes up
+DEBUG: 3.879438 customer 0 starts haircut
+DEBUG: 3.938057 customer 0 leaves shop
+DEBUG: 3.938089 barber goes to sleep
+DEBUG: 4.092831 customer 5 enters shop
+DEBUG: 4.092854 barber wakes up
+DEBUG: 4.092863 customer 5 starts haircut
+DEBUG: 4.200023 customer 0 enters shop
+DEBUG: 4.296082 customer 5 leaves shop
+DEBUG: 4.296116 customer 0 starts haircut
+DEBUG: 4.377651 customer 0 leaves shop
+DEBUG: 4.377670 barber goes to sleep
+DEBUG: 4.561959 customer 4 enters shop
+DEBUG: 4.562006 barber wakes up
+DEBUG: 4.562025 customer 4 starts haircut
+DEBUG: 4.606460 customer 4 leaves shop
+DEBUG: 4.606488 barber goes to sleep
+DEBUG: 4.631510 customer 3 enters shop
+DEBUG: 4.631536 barber wakes up
+DEBUG: 4.631545 customer 3 starts haircut
+DEBUG: 4.647852 customer 3 leaves shop
+DEBUG: 4.647881 barber goes to sleep
+DEBUG: 4.844858 customer 9 enters shop
+DEBUG: 4.844883 barber wakes up
+DEBUG: 4.844893 customer 9 starts haircut
+DEBUG: 4.923078 customer 9 leaves shop
+DEBUG: 4.923106 barber goes to sleep
+DEBUG: 4.996809 customer 5 enters shop
+DEBUG: 4.996896 barber wakes up
+DEBUG: 4.996953 customer 5 starts haircut
+DEBUG: 5.006077 customer 1 enters shop
+DEBUG: 5.070755 customer 5 leaves shop
+DEBUG: 5.070789 customer 1 starts haircut
+DEBUG: 5.283984 customer 1 leaves shop
+DEBUG: 5.284010 barber goes to sleep
+DEBUG: 5.470626 customer 1 enters shop
+DEBUG: 5.470651 barber wakes up
+DEBUG: 5.470661 customer 1 starts haircut
+DEBUG: 5.474585 customer 5 enters shop
+DEBUG: 5.489300 customer 1 leaves shop
+DEBUG: 5.489333 customer 5 starts haircut
+DEBUG: 5.530324 customer 0 enters shop
+DEBUG: 5.610237 customer 4 enters shop
+DEBUG: 5.640008 customer 3 enters shop
+DEBUG: 5.752136 customer 1 enters shop
+DEBUG: 5.772487 customer 9 enters shop
+DEBUG: 5.772500 customer 9 leaves shop
+DEBUG: 5.806869 customer 9 enters shop
+DEBUG: 5.806884 customer 9 leaves shop
+DEBUG: 5.843314 customer 5 leaves shop
+DEBUG: 5.843348 customer 0 starts haircut
+DEBUG: 5.868024 customer 2 enters shop
+DEBUG: 6.001975 customer 0 leaves shop
+DEBUG: 6.002218 customer 4 starts haircut
+DEBUG: 6.050756 customer 4 leaves shop
+DEBUG: 6.050788 customer 3 starts haircut
+DEBUG: 6.143710 customer 3 leaves shop
+DEBUG: 6.143732 customer 1 starts haircut
+DEBUG: 6.225029 customer 1 leaves shop
+DEBUG: 6.225050 customer 2 starts haircut
+DEBUG: 6.261858 customer 2 leaves shop
+DEBUG: 6.261885 barber goes to sleep
+DEBUG: 6.261894 customer 4 enters shop
+DEBUG: 6.261909 barber wakes up
+DEBUG: 6.262009 customer 4 starts haircut
+DEBUG: 6.328502 customer 4 leaves shop
+DEBUG: 6.328520 barber goes to sleep
+DEBUG: 6.364958 customer 4 enters shop
+DEBUG: 6.364983 barber wakes up
+DEBUG: 6.364993 customer 4 starts haircut
+DEBUG: 6.400464 customer 2 enters shop
+DEBUG: 6.497233 customer 4 leaves shop
+DEBUG: 6.497264 customer 2 starts haircut
+DEBUG: 6.705639 customer 2 leaves shop
+DEBUG: 6.705665 barber goes to sleep
+DEBUG: 6.708675 customer 3 enters shop
+DEBUG: 6.708688 barber wakes up
+DEBUG: 6.708694 customer 3 starts haircut
+DEBUG: 6.729276 customer 3 leaves shop
+DEBUG: 6.729355 barber goes to sleep
+DEBUG: 6.759060 customer 1 enters shop
+DEBUG: 6.759082 barber wakes up
+DEBUG: 6.759091 customer 1 starts haircut
+DEBUG: 6.764909 customer 1 leaves shop
+DEBUG: 6.764935 barber goes to sleep
+DEBUG: 6.866557 customer 1 enters shop
+DEBUG: 6.866599 barber wakes up
+DEBUG: 6.866609 customer 1 starts haircut
+DEBUG: 6.904168 customer 9 enters shop
+DEBUG: 6.923135 customer 7 enters shop
+DEBUG: 6.938962 customer 3 enters shop
+DEBUG: 7.103936 customer 1 leaves shop
+DEBUG: 7.103969 customer 9 starts haircut
+DEBUG: 7.352577 customer 9 leaves shop
+DEBUG: 7.352612 customer 7 starts haircut
+DEBUG: 7.432251 customer 4 enters shop
+DEBUG: 7.481303 customer 1 enters shop
+DEBUG: 8.264599 customer 7 leaves shop
+DEBUG: 8.264633 customer 3 starts haircut
+DEBUG: 8.329968 customer 3 leaves shop
+DEBUG: 8.330002 customer 4 starts haircut
+DEBUG: 8.343529 customer 5 enters shop
+DEBUG: 8.603803 customer 0 enters shop
+DEBUG: 8.765941 customer 4 leaves shop
+DEBUG: 8.765975 customer 1 starts haircut
+DEBUG: 8.795501 customer 1 leaves shop
+DEBUG: 8.795534 customer 5 starts haircut
+DEBUG: 8.821656 customer 8 enters shop
+DEBUG: 8.896756 customer 2 enters shop
+DEBUG: 8.945337 customer 5 leaves shop
+DEBUG: 8.945371 customer 0 starts haircut
+DEBUG: 9.023000 customer 0 leaves shop
+DEBUG: 9.023033 customer 8 starts haircut
+DEBUG: 9.104167 customer 5 enters shop
+DEBUG: 9.183469 customer 8 leaves shop
+DEBUG: 9.183504 customer 2 starts haircut
+DEBUG: 9.276299 customer 2 leaves shop
+DEBUG: 9.276334 customer 5 starts haircut
+DEBUG: 9.312192 customer 3 enters shop
+DEBUG: 9.340461 customer 0 enters shop
+DEBUG: 9.373537 customer 5 leaves shop
+DEBUG: 9.373573 customer 3 starts haircut
+DEBUG: 9.379076 customer 3 leaves shop
+DEBUG: 9.379112 customer 0 starts haircut
+DEBUG: 9.429030 customer 8 enters shop
+DEBUG: 9.471318 customer 0 leaves shop
+DEBUG: 9.471353 customer 8 starts haircut
+DEBUG: 9.533950 customer 4 enters shop
+DEBUG: 9.611791 customer 1 enters shop
+DEBUG: 9.611937 customer 0 enters shop
+DEBUG: 9.658310 customer 3 enters shop
+DEBUG: 9.691725 customer 5 enters shop
+DEBUG: 9.691739 customer 5 leaves shop
+DEBUG: 9.712927 customer 8 leaves shop
+DEBUG: 9.712962 customer 4 starts haircut
+DEBUG: 9.721876 customer 4 leaves shop
+DEBUG: 9.721912 customer 1 starts haircut
+DEBUG: 9.750278 customer 1 leaves shop
+DEBUG: 9.750312 customer 0 starts haircut
+DEBUG: 9.810751 customer 0 leaves shop
+DEBUG: 9.810785 customer 3 starts haircut
+DEBUG: 9.842080 customer 3 leaves shop
+DEBUG: 9.842146 barber goes to sleep
+DEBUG: 9.859376 customer 5 enters shop
+DEBUG: 9.859404 barber wakes up
+DEBUG: 9.859413 customer 5 starts haircut
+DEBUG: 9.866597 customer 5 leaves shop
+DEBUG: 9.866625 barber goes to sleep
+DEBUG: 9.908359 customer 0 enters shop
+DEBUG: 9.908380 barber wakes up
+DEBUG: 9.908402 customer 0 starts haircut
+DEBUG: 9.910237 customer 7 enters shop
+DEBUG: 9.989473 customer 5 enters shop
+DEBUG: 10.000703 customer 6 enters shop
+DEBUG: 10.006452 customer 0 leaves shop
+DEBUG: 10.006543 customer 7 starts haircut
+Total visits is: 63, fullshop visit is: 3, fraction is: 0.047619
